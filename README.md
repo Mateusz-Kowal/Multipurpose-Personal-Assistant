@@ -7,4 +7,4 @@ In the screenshots folder you can see the interface of a Calendar tab with diffe
 In the scripts folder there is all of the Python code I wrote + a powershell script for creating/managing new version of the program.
 All the private info in stored in text files, but for privacy reasons I didn't put them here.
 
-- Mateusz Kowal
+Mateusz Kowal
